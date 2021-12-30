@@ -1,3 +1,12 @@
+
+<pre>
+- The running time of a program is hardware and software dependent.
+
+- The running time of a program depends on the input size
+and on the input type
+
+</pre>
+
 <code>
 
 Auxiliary space is temporary or extra space used by an algorithm. This temporary space allocated in order to solve 
