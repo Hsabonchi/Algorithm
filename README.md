@@ -1,5 +1,7 @@
 # Algorithm
 Data Structure and Algorithm
+##### For space complexity, How much extra space we need to allocate for this algorithm. We always have input of size n,so we do not count it
+##### we just analyze hoe much extra space need to be allocated for this algoritm
 <pre>
  Auxiliary space is temporary or extra space used by an algorithm. This temporary space allocated in order 
   to solve the problem.Space complexity is total space taken by the algorithm with respect to the input size. 
